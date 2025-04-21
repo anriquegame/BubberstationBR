@@ -9700,5 +9700,6 @@
 #include "modular_zubbers\modules\primitive_cooking\code\cauldron.dm"
 #include "modular_zubbers\modules\wood_walls\code\mineral_walls.dm"
 #include "modular_zubbers\modules\wood_walls\code\new_floors.dm"
+#include "test\test.dm"
 // END_INCLUDE
 
